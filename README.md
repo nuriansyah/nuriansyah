@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/nuriansyah?theme=light&font=Kosugi%20Maru&ext=contest)
+
 <!--
 **nuriansyah/nuriansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
